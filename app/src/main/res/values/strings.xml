@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Shopping</string>
+    <string name="welcome_to_my_shop">Ферма.kz</string>
+    <string name="enter_username">Имя пользователя </string>
+    <string name="password">Пароль</string>
+    <string name="email_or_username">Email or username</string>
+    <string name="pass">*************</string>
+    <string name="login">Войти</string>
+    <string name="view_products">Корзина</string>
+    <string name="electronics">Молочные продукты</string>
+    <string name="bill">Оплатить</string>
+    <string name="add_to_cart">Добавить в корзину</string>
+    <string name="to_put_item_just_click_on_iten">Нажми на товар для добавления в корзину</string>
+    <string name="place_order">Place Order From My Shop</string>
+    <string name="total">Total</string>
+    <array name="category">
+        <item>Выберите категорию</item>
+        <item>Молочные продукты</item>
+        <item>Мясо</item>
+        <item>Рыба</item>
+    </array>
+</resources>
